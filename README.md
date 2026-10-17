@@ -8,7 +8,7 @@ raftkv is an opportunity to understand distributed systems at the implementation
 
 ## Goal
 
-Build a small, understandable three-node database where I understand every major component. My focus is on learning consensus, fault tolerance, and storage-engine design rather than recreating a production database such as TiKV.
+Build a small, understandable three-node database where I understand every major component. My focus is on learning consensus, fault tolerance, and storage-engine design rather than recreating a production database.
 
 ## Scope
 
